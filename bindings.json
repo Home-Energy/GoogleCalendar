@@ -1,0 +1,29 @@
+{
+  "version": "1.0",
+  "resources": [
+    {
+      "resource": "asset",
+      "metadata": {
+        "Value": {
+          "defaultValue": "CalendarIDs",
+          "isExpression": false
+        },
+        "FolderPath": {
+          "isExpression": true
+        }
+      }
+    },
+    {
+      "resource": "asset",
+      "metadata": {
+        "Value": {
+          "defaultValue": "GoogleCalendarJobcodefile",
+          "isExpression": false
+        },
+        "FolderPath": {
+          "isExpression": true
+        }
+      }
+    }
+  ]
+}
